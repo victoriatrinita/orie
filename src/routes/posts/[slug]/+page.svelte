@@ -1,11 +1,13 @@
 <script lang="ts">
-	import Article from '$lib/pages/Article.svelte';
-
+	import ArticlePaper from '$lib/pages/ArticlePaper.svelte';
 	export let data: import('./$types').PageData;
 </script>
 
-<Article showProgress={true}>
+<ArticlePaper showProgress={true} post={data.post}>
 	<section>
 		{@html data.post.content}
 	</section>
-</Article>
+</ArticlePaper>
+
+<style>
+</style>

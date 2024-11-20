@@ -7,8 +7,6 @@ date:published: 2024-05-19
 date:updated:
 ---
 
-## Bisa dinikmati Allah
-
 **[https://www.youtube.com/live/uQV3QHnFTSU?si=LIPwhs3lNZaqQOT9](https://www.youtube.com/live/uQV3QHnFTSU?si=LIPwhs3lNZaqQOT9)**
 
 

@@ -13,6 +13,7 @@
 	"packageManager": "pnpm@9.1.4+sha1.2432063d815cfa88fd9fef1d85a445e3f609851d",
 	"devDependencies": {
 		"@fontsource-variable/inter": "^5.0.18",
+		"@fontsource-variable/roboto-slab": "^5.0.20",
 		"@fontsource/fira-mono": "^4.5.9",
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/kit": "^2.0.0",

@@ -7,8 +7,6 @@ date:published: 2022-02-13
 date:updated:
 ---
 
-## Kelegaan yang Sejati
-
 **[https://www.youtube.com/watch?v=agDQEITG_kg](https://www.youtube.com/watch?v=agDQEITG_kg)**
 
 > Matius 11:28-29
