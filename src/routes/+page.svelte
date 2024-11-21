@@ -57,6 +57,12 @@
 		gap: 1em;
 	}
 
+	@media (max-width: 600px) {
+		section:nth-of-type(2) div {
+			grid-template-columns: 1fr;
+		}
+	}
+
 	.wrapper {
 		display: grid;
 		padding: clamp(2em, 3vw, 4em) 1em 0;
