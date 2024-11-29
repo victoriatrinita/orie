@@ -19,6 +19,16 @@
 	--buttermilk: #fff8ba;
 	--pavlova: #d8bf9a;
 	--snowy-mint: #c7fcc6;
+
+	/* Dark Mode */
+	--ebony-clay: #292841;
+	--gun-powder: #3d3a56;
+	--aquamarine: #7ff4c1;
+	--perano: #b9ccf3;
+	--perfume: #c7b5f8;
+	--wewak: #ef9bbb;
+	--maize: #f5db94;
+	--iceberg: #d6ebf1;
 }
 
 html {
